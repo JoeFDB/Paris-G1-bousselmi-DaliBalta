@@ -9,10 +9,9 @@ Created on Mon Feb 27 16:37:19 2023
 print("Hello from Joe le Bg")
 
 print("hello my team its Joe")
-print ("Et salut a tous les amis c'est david lafarge pokemon")
-!pip install geopandas
-!pip install folium
-!pip install geopandas
+#!pip install geopandas
+#!pip install folium
+#!pip install geopandas
 
 import pandas as pd
 import numpy as np

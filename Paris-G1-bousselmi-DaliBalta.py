@@ -9,3 +9,5 @@ Created on Mon Feb 27 16:37:19 2023
 print("Hello from Joe le Bg")
 
 print("hello my team its Joe")
+!pip install geopandas
+!pip install folium
